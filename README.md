@@ -1,6 +1,13 @@
 # Brain_Tumor_Detection-and-Classification
 Brain_Tumor_Detection and Classification using YOLO v2 
 
+3 classes i.e
+
+Gliomia Tumor
+Menigiomia Tumor
+Pituirity Tumor
+
+
 1) First I use contours to make annotations file(.xml files) of training set (\darkflow-master\DIPA_DataSet\DataSet\) and for that i used contour testing.py file 
 (what is does is it basically takes the original tumour image and use its name to search for its respective label and find its contour and then use the coordinates of contours to make annotation file) 
 2) I collected the annotation files in Annotations folder (\darkflow-master\DIPA_DataSet\Annotations\)
