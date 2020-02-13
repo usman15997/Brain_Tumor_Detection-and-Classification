@@ -1,0 +1,21 @@
+<annotation>
+  <folder>C:\Users\usman\darkflow-master\DIPA_DataSet\DataSet\M</folder>
+  <filename>1.0---108514-i107.jpg</filename>
+  <segmented>0</segmented>
+  <size/>
+  <width>512</width>
+  <height>512</height>
+  <depth>3</depth>
+  <object>
+    <name>Menigiomia_tumour</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>117</xmin>
+      <ymin>261</ymin>
+      <xmax>211</xmax>
+      <ymax>377</ymax>
+    </bndbox>
+  </object>
+</annotation>

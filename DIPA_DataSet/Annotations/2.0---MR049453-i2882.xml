@@ -1,0 +1,21 @@
+<annotation>
+  <folder>C:\Users\usman\darkflow-master\DIPA_DataSet\DataSet\G</folder>
+  <filename>2.0---MR049453-i2882.jpg</filename>
+  <segmented>0</segmented>
+  <size/>
+  <width>512</width>
+  <height>512</height>
+  <depth>3</depth>
+  <object>
+    <name>Gliomia_tumour</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>224</xmin>
+      <ymin>134</ymin>
+      <xmax>280</xmax>
+      <ymax>173</ymax>
+    </bndbox>
+  </object>
+</annotation>

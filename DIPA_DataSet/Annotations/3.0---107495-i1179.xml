@@ -1,0 +1,21 @@
+<annotation>
+  <folder>C:\Users\usman\darkflow-master\DIPA_DataSet\DataSet\P</folder>
+  <filename>3.0---107495-i1179.jpg</filename>
+  <segmented>0</segmented>
+  <size/>
+  <width>512</width>
+  <height>512</height>
+  <depth>3</depth>
+  <object>
+    <name>Pituirity_tumour</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>187</xmin>
+      <ymin>232</ymin>
+      <xmax>230</xmax>
+      <ymax>287</ymax>
+    </bndbox>
+  </object>
+</annotation>
