@@ -7,7 +7,7 @@ Gliomia, Menigiomia ,Pituirity Tumor
 
 
 1) First I use contours to make annotations file(.xml files) of training set (\darkflow-master\DIPA_DataSet\DataSet\) and for that i used contour testing.py file 
-(what is does is it basically takes the original tumour image and use its name to search for its respective label and find its contour and then use the coordinates of contours to make annotation file) 
+(what it does is it basically takes the original tumour image and use its name to search for its respective label and find its contour and then use the coordinates of contours to make annotation file) 
 2) I collected the annotation files in Annotations folder (\darkflow-master\DIPA_DataSet\Annotations\)
 3) For training open ANACONDA command prompt in current directory and type this following command:
 python flow --model darkflow-master\cfg\tiny-yolo-voc-3c --load darkflow-master\bin\tiny-yolo-voc.weights --dataset darkflow-master\DIPA_DataSet\training --annotations \darkflow-master\DIPA_DataSet\Annotations\ --epoch 10
